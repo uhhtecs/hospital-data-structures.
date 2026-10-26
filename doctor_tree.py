@@ -96,3 +96,16 @@ if __name__ == "__main__":
     print("Preorder:", tree.preorder(tree.root))
     print("Inorder:", tree.inorder(tree.root))
     print("Postorder:", tree.postorder(tree.root))
+
+class DoctorNode:
+    pass # Delete this line and implement the DoctorNode class
+
+
+
+class DoctorTree:
+    pass # Delete this line and implement the DoctorTree class
+
+
+
+
+# Test your DoctorTree and DoctorNode classes here

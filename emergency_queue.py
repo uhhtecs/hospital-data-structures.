@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 """
 Emergency Priority Queue
@@ -133,3 +134,17 @@ if __name__ == "__main__":
         print("Patient served:", served.name)
 
     heap.print_heap()
+=======
+class Patient:
+    pass # Delete this line and implement the Patient class
+
+
+
+class MinHeap:
+    pass # Delete this line and implement the MinHeap class
+
+
+
+
+# Test your MinHeap class here including edge cases
+>>>>>>> e942aabcafabda543b9a9109f0de5dae54e5c845
